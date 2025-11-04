@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/DATA%20SCIENCE%20%26%20AI/PROJECTS/Youtube%20Comment%20Analysis/notebooks/mlruns/0/0d144539f37b4fb6bc4b3121cf373b23/artifacts
+end_time: 1762184496851
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0d144539f37b4fb6bc4b3121cf373b23
+run_name: TF-IDF-(1, 2)-RandomForest
+run_uuid: 0d144539f37b4fb6bc4b3121cf373b23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762184488231
+status: 3
+tags: []
+user_id: PRAVAT PATRA

@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/DATA%20SCIENCE%20%26%20AI/PROJECTS/Youtube%20Comment%20Analysis/notebooks/mlruns/0/912358c66dce4524a12b71c5907a5284/artifacts
+end_time: 1762184510903
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 912358c66dce4524a12b71c5907a5284
+run_name: BoW-(1, 3)-RandomForest
+run_uuid: 912358c66dce4524a12b71c5907a5284
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762184502075
+status: 3
+tags: []
+user_id: PRAVAT PATRA
