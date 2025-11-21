@@ -13,3 +13,7 @@ ipykernel
 wordcloud
 mlflow<3
 dagshub
+imblearn
+xgboost
+lightgbm
+optuna
